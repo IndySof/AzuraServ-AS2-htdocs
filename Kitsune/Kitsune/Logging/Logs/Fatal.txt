@@ -1,0 +1,6 @@
+05:16:11 [Fatal] > SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+05:16:50 [Fatal] > SQLSTATE[HY000] [1049] Unknown database 'kitsune'
+07:55:25 [Fatal] > SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+08:02:32 [Fatal] > SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+08:05:53 [Fatal] > SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+08:21:20 [Fatal] > SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)

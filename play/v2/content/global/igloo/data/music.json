@@ -1,0 +1,342 @@
+{
+
+	"en" :
+	{
+		"text" :
+		{
+			"goToButtonText" :  { "text" : "Go to DJ3K!", "fontSize" : 9 },
+			"dialogDescription" : { "text" : "Record and save your own music mixes in DJ3K.", "fontSize" : 12 },
+			"dialogButtonText" :  { "text" : "Go There!", "fontSize" : 9 },
+			"savedMixesText" :  { "text" : "My Saved Mixes", "fontSize" : 18 },
+			"musicListText" :  { "text" : "Music List", "fontSize" : 18 }
+		},
+		"songs" : 	
+		[
+			{
+				"id" : 305,
+				"title" : "Brown Puffle Lab",
+				"fontSize" : 12
+			},
+			{
+				"id" : 286,
+				"title" : "Beware the Dragon",
+				"fontSize" : 12
+			},
+			{
+				"id" : 271,
+				"title" : "Rocking Pizza",
+				"fontSize" : 12
+			},
+			{
+				"id" : 35,
+				"title" : "Pre-historic Rock",
+				"fontSize" : 12
+			},
+			{
+				"id" : 233,
+				"title" : "The Royal Court",
+				"fontSize" : 12
+			},
+			{
+				"id" : 259,
+				"title" : "Puffle Party",
+				"fontSize" : 12
+			},
+			{
+				"id" : 245,
+				"title" : "Orca Straw",
+				"fontSize" : 12
+			},
+			{
+				"id" : 42,
+				"title" : "Norman Swarm",
+				"fontSize" : 12
+			},
+			{
+				"id" : 236,
+				"title" : "To Battle!",
+				"fontSize" : 12
+			},
+			{
+				"id" : 263,
+				"title" : "Flipper Jig",
+				"fontSize" : 12
+			},
+			{
+				"id" : 256,
+				"title" : "Icy Serenade",
+				"fontSize" : 12
+			},
+			{
+				"id" : 24,
+				"title" : "The Way of Sensei",
+				"fontSize" : 12
+			},
+			{
+				"id" : 246,
+				"title" : "Country West",
+				"fontSize" : 12
+			},
+			{
+				"id" : 272,
+				"title" : "All-Access Pass",
+				"fontSize" : 12
+			}		
+		]
+	},
+	
+	"fr" :
+	{
+		"text" :
+		{
+			"goToButtonText" :  { "text" : "Va à DJ3K !", "fontSize" : 9 },
+			"dialogDescription" : { "text" : "Enregistre tes propres mix dans DJ3K.", "fontSize" : 12 },
+			"dialogButtonText" :  { "text" : "Vas-y !", "fontSize" : 9 },
+			"savedMixesText" :  { "text" : "Mes Mix", "fontSize" : 18 },
+			"musicListText" :  { "text" : "Liste de Musiques", "fontSize" : 18 }
+		},
+		"songs" : 	
+		[
+			{
+				"id" : 305,
+				"title" : "Labo du Puffle Marron",
+				"fontSize" : 12
+			},
+			{
+				"id" : 286,
+				"title" : "Gare au Dragon",
+				"fontSize" : 12
+			},
+			{
+				"id" : 271,
+				"title" : "Rock Pizza",
+				"fontSize" : 12
+			},
+			{
+				"id" : 35,
+				"title" : "Préhisto-rock",
+				"fontSize" : 12
+			},
+			{
+				"id" : 233,
+				"title" : "La Cour Royale",
+				"fontSize" : 12
+			},
+			{
+				"id" : 259,
+				"title" : "Fête des Puffles",
+				"fontSize" : 12
+			},
+			{
+				"id" : 245,
+				"title" : "Fil Harmonique",
+				"fontSize" : 12
+			},
+			{
+				"id" : 42,
+				"title" : "Norman Swarm",
+				"fontSize" : 12
+			},
+			{
+				"id" : 236,
+				"title" : "Pars au Combat !",
+				"fontSize" : 12
+			},
+			{
+				"id" : 263,
+				"title" : "Gigue à Ding Dong",
+				"fontSize" : 12
+			},
+			{
+				"id" : 256,
+				"title" : "Sérénade Glacée",
+				"fontSize" : 12
+			},
+			{
+				"id" : 24,
+				"title" : "Sur les Pas de Sensei",
+				"fontSize" : 12
+			},
+			{
+				"id" : 246,
+				"title" : "Destination Country",
+				"fontSize" : 12
+			},
+			{
+				"id" : 272,
+				"title" : "Pass Passe-partout",
+				"fontSize" : 12
+			}		
+		]
+	},
+	
+	"es" :
+	{
+		"text" :
+		{
+			"goToButtonText" :  { "text" : "¡Ir a DJ3K!", "fontSize" : 9 },
+			"dialogDescription" : { "text" : "Graba y guarda tus temas en DJ3K.", "fontSize" : 12 },
+			"dialogButtonText" :  { "text" : "¡Ir allí!", "fontSize" : 9 },
+			"savedMixesText" :  { "text" : "Mis temas mezclados", "fontSize" : 18 },
+			"musicListText" :  { "text" : "Lista musical", "fontSize" : 18 }
+		},
+		"songs" : 	
+		[
+			{
+				"id" : 305,
+				"title" : "Laboratorio del puffle café",
+				"fontSize" : 12
+			},
+			{
+				"id" : 286,
+				"title" : "Cuidado con el dragón",
+				"fontSize" : 12
+			},
+			{
+				"id" : 271,
+				"title" : "Pizza rockera",
+				"fontSize" : 12
+			},
+			{
+				"id" : 35,
+				"title" : "Rock de la prehistoria",
+				"fontSize" : 12
+			},
+			{
+				"id" : 233,
+				"title" : "Corte real",
+				"fontSize" : 12
+			},
+			{
+				"id" : 259,
+				"title" : "Fiesta pufflística",
+				"fontSize" : 12
+			},
+			{
+				"id" : 245,
+				"title" : "La orca está",
+				"fontSize" : 12
+			},
+			{
+				"id" : 42,
+				"title" : "Zumbidos",
+				"fontSize" : 12
+			},
+			{
+				"id" : 236,
+				"title" : "¡A la batalla!",
+				"fontSize" : 12
+			},
+			{
+				"id" : 263,
+				"title" : "Aletas danzarinas",
+				"fontSize" : 12
+			},
+			{
+				"id" : 256,
+				"title" : "Serenata helada",
+				"fontSize" : 12
+			},
+			{
+				"id" : 24,
+				"title" : "A la manera del Sensei",
+				"fontSize" : 12
+			},
+			{
+				"id" : 246,
+				"title" : "Lejano Oeste",
+				"fontSize" : 12
+			},
+			{
+				"id" : 272,
+				"title" : "Pase ilimitado",
+				"fontSize" : 12
+			}		
+		]
+	},
+	
+	"pt" :
+	{
+		"text" :
+		{
+			"goToButtonText" :  { "text" : "Ir pro DJ3K!", "fontSize" : 9 },
+			"dialogDescription" : { "text" : "Grave e salve sua própria música no DJ3K.", "fontSize" : 12 },
+			"dialogButtonText" :  { "text" : "Ir pra lá!", "fontSize" : 9 },
+			"savedMixesText" :  { "text" : "Minhas Músicas", "fontSize" : 18 },
+			"musicListText" :  { "text" : "Lista de Músicas", "fontSize" : 18 }
+		},
+		"songs" : 	
+		[
+			{
+				"id" : 305,
+				"title" : "Peripécias do Puffle Marrom",
+				"fontSize" : 10
+			},
+			{
+				"id" : 286,
+				"title" : "Parcimônia com o Dragão",
+				"fontSize" : 11
+			},
+			{
+				"id" : 271,
+				"title" : "Pizza do Barulho",
+				"fontSize" : 12
+			},
+			{
+				"id" : 35,
+				"title" : "Levada Pré-histórica",
+				"fontSize" : 12
+			},
+			{
+				"id" : 233,
+				"title" : "A Corte Real",
+				"fontSize" : 12
+			},
+			{
+				"id" : 259,
+				"title" : "Festa dos Puffles",
+				"fontSize" : 12
+			},
+			{
+				"id" : 245,
+				"title" : "Som do Mar",
+				"fontSize" : 12
+			},
+			{
+				"id" : 42,
+				"title" : "Zumbido no Ouvido",
+				"fontSize" : 12
+			},
+			{
+				"id" : 236,
+				"title" : "À Batalha!",
+				"fontSize" : 12
+			},
+			{
+				"id" : 263,
+				"title" : "Bate a Nadadeira!",
+				"fontSize" : 12
+			},
+			{
+				"id" : 256,
+				"title" : "Serenata Gelada",
+				"fontSize" : 12
+			},
+			{
+				"id" : 24,
+				"title" : "A Jornada do Sensei",
+				"fontSize" : 12
+			},
+			{
+				"id" : 246,
+				"title" : "Baile Sertanejo",
+				"fontSize" : 12
+			},
+			{
+				"id" : 272,
+				"title" : "Passe Livre",
+				"fontSize" : 12
+			}		
+		]
+	}
+}
