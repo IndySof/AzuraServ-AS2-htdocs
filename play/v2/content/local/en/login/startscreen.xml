@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- EN -->
+<startscreen>
+	
+	<backgrounds>
+		<!-- in constant rotation -->
+
+		<background>
+			<url>explore_more.swf</url>
+			<probability>50</probability>
+			<nolink/>
+		</background>		
+
+		<background>
+			<url>jetpack.swf</url>
+			<probability>50</probability>
+			<nolink/>
+		</background>	
+		
+		<background>
+			<url>play_more.swf</url>
+			<probability>50</probability>
+			<nolink/>
+		</background>
+		
+
+		<!-- /constant rotation -->		
+		
+
+		<!-- external linking content -->		
+				
+		
+		<!-- /external linking content -->
+		
+	</backgrounds>
+	
+	<messages>
+		<message>
+			<title>CHECK OUT WHAT'S NEW</title>
+			<icon>blog.swf</icon>
+			<content type='url'>http://localhost/blog</content>
+		</message>
+	</messages>
+
+</startscreen>
